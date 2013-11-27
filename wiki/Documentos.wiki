@@ -25,8 +25,8 @@
 
 =Calidad=
   ***Calidad Modelo 25010*:[http://ecitas.googlecode.com/svn/wiki/proyecto/calidad.pdf Calidad]
- ===ISO 12207-2008===
-   ***Proceso de Implementación del Software*:[http://ecitas.googlecode.com/svn/wiki/proyecto/ProcesoImplementacionSoftware.pdf 12207]
+ ===CMMI-DEV 1.2===
+   ***Proceso de Implementación del Software*:[http:// 12207]
 
 =Presupuestos=
   ==Inicial==
