@@ -16,8 +16,18 @@
 
 
 =Requisitos=
+  ***Requisitos*:[http://ecitas.googlecode.com/svn/wiki/proyecto/Requisitos.pdf Requisitos]
+
+=Planificación=
+  ***Planificación*:[http://ecitas.googlecode.com/svn/wiki/proyecto/planificacion.pdf Planificación]
 
 
+=Presupuestos=
+==Inicial==
+  ***Prespuesto Inicial*:[http://ecitas.googlecode.com/svn/wiki/proyecto/PresupuestoInicial.pdf PresupuestoInicial]
+
+==Mensual==
+  ***Prespuesto Mensual*:[http://ecitas.googlecode.com/svn/wiki/proyecto/PresupuestoMensual.pdf PresupuestoMensual]
 
 #summary One-sentence summary of this page.
 
