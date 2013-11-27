@@ -1,18 +1,18 @@
 =Actas=
 
-  ***Acta 1*:[http://ecitas.googlecode.com/svn/wiki/proyecto/Acta001.pdf Acta001]
+  ***Acta 1*: [http://ecitas.googlecode.com/svn/wiki/proyecto/Acta001.pdf Acta001]
 
-  ***Acta 2*:[http://ecitas.googlecode.com/svn/wiki/proyecto/Acta002.pdf Acta002]
+  ***Acta 2*: [http://ecitas.googlecode.com/svn/wiki/proyecto/Acta002.pdf Acta002]
 
-  ***Acta 3*:[http://ecitas.googlecode.com/svn/wiki/proyecto/Acta003.pdf Acta003]
+  ***Acta 3*: [http://ecitas.googlecode.com/svn/wiki/proyecto/Acta003.pdf Acta003]
 
-  ***Acta 4*:[http://ecitas.googlecode.com/svn/wiki/proyecto/Acta004.pdf Acta004]
+  ***Acta 4*: [http://ecitas.googlecode.com/svn/wiki/proyecto/Acta004.pdf Acta004]
 
-  ***Acta 5*:[http://ecitas.googlecode.com/svn/wiki/proyecto/Acta005.pdf Acta005]
+  ***Acta 5*: [http://ecitas.googlecode.com/svn/wiki/proyecto/Acta005.pdf Acta005]
 
-  ***Acta 6*:[http://ecitas.googlecode.com/svn/wiki/proyecto/Acta006.pdf Acta006]
+  ***Acta 6*: [http://ecitas.googlecode.com/svn/wiki/proyecto/Acta006.pdf Acta006]
 
-  ***Acta 7*:[http://ecitas.googlecode.com/svn/wiki/proyecto/Acta007.pdf Acta007]
+  ***Acta 7*: [http://ecitas.googlecode.com/svn/wiki/proyecto/Acta007.pdf Acta007]
 
 
 =Requisitos=
