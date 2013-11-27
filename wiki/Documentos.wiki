@@ -20,7 +20,7 @@
 
 
 =Planificación=
-  ***Planificación*:[http://ecitas.googlecode.com/svn/wiki/proyecto/planificacion.pdf Planificación]
+  ***Planificación*:[http://ecitas.googlecode.com/svn/wiki/proyecto/Planificacion.pdf Planificación]
 
 
 =Calidad=
