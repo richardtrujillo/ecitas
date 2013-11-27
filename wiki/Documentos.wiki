@@ -27,6 +27,8 @@
   ***Calidad Modelo 25010*:[http://ecitas.googlecode.com/svn/wiki/proyecto/calidad.pdf Calidad]
  ===CMMI-DEV 1.2===
    ***Proceso de Implementación del Software*:[http:// 12207]
+ ===EVALUACION CMMI===
+   ***Examen CMMI*:[http://ecitas.googlecode.com/svn/wiki/proyecto/examenCMMI.pdf Examen]
 
 =Presupuestos=
   ==Inicial==
