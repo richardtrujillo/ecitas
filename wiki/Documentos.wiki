@@ -26,6 +26,9 @@
 =Calidad=
   ***Calidad Modelo 25010*:[http://ecitas.googlecode.com/svn/wiki/proyecto/calidad.pdf Calidad]
 
+ ===Procesos de Desarrollo software===
+   ***CMMI-DEV*:[http://ecitas.googlecode.com/svn/wiki/proyecto/CMMIProcesosDesarrolloSoftware.pdf CMMI-DEV]
+
  ===EVALUACION CMMI===
    ***Examen CMMI*:[http://ecitas.googlecode.com/svn/wiki/proyecto/examenCMMI.pdf Examen]
 
@@ -35,3 +38,6 @@
 
   ==Mensual==
   ***Prespuesto Mensual*:[http://ecitas.googlecode.com/svn/wiki/proyecto/PresupuestoMensual.pdf PresupuestoMensual]
+
+=Manual de Usuario=
+ ***Tutorial SVN*:[http://ecitas.googlecode.com/svn/wiki/proyecto/TutorialSVN.pdf TutorialSVN]
