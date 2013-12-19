@@ -31,6 +31,7 @@
 
 =Planificación=
   ***Planificación*:[http://ecitas.googlecode.com/svn/wiki/proyecto/Planificacion.pdf Planificación]
+  ***Mejora de la Planificación*:[http://ecitas.googlecode.com/svn/wiki/proyecto/ModificacionPlanificacion.pdf ModificacionPlanificación]
 
 
 =Calidad=
