@@ -57,5 +57,4 @@
  ***Tutorial SVN*:[http://ecitas.googlecode.com/svn/wiki/proyecto/TutorialSVN.pdf TutorialSVN]
 
 =PROYECTO=
- ***Análisis y Diseño de todos los casos de prueba del proyecto:***
-[https://ecitas.googlecode.com/svn/trunk/ecitas       ****IteracionesAnalisisDiseño]
+ ***Análisis y Diseño de todos los casos de prueba del proyecto*: [https://ecitas.googlecode.com/svn/trunk/ecitas IteracionesAnalisisDiseño]
