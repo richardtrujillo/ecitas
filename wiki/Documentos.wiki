@@ -12,7 +12,18 @@
 
   ***Acta 6*: [http://ecitas.googlecode.com/svn/wiki/proyecto/Acta006.pdf Acta006]
 
-  ***Acta 7*: [http://ecitas.googlecode.com/svn/wiki/proyecto/Acta007.pdf Acta007]
+  ***Acta 8*: [http://ecitas.googlecode.com/svn/wiki/proyecto/Acta008.pdf Acta008]
+
+ ***Acta 9*: 
+[http://ecitas.googlecode.com/svn/wiki/proyecto/Acta009.pdf Acta009]
+
+ ***Acta 10*: [http://ecitas.googlecode.com/svn/wiki/proyecto/Acta010.pdf Acta010]
+
+ ***Acta 11*: [http://ecitas.googlecode.com/svn/wiki/proyecto/Acta011.pdf Acta011]
+
+ ***Acta 12*: [http://ecitas.googlecode.com/svn/wiki/proyecto/Acta012.pdf Acta012]
+
+ ***Acta 13*: [http://ecitas.googlecode.com/svn/wiki/proyecto/Acta013.pdf Acta013]
 
 
 =Requisitos=
@@ -45,3 +56,7 @@
 
 =Manual de Usuario=
  ***Tutorial SVN*:[http://ecitas.googlecode.com/svn/wiki/proyecto/TutorialSVN.pdf TutorialSVN]
+
+=PROYECTO=
+ ***Análisis y Diseño de todos los casos de prueba del proyecto:***
+[https://ecitas.googlecode.com/svn/trunk/ecitas IteracionesAnalisisDiseño]
