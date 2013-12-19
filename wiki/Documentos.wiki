@@ -31,6 +31,7 @@
 
 =Planificación=
   ***Planificación*:[http://ecitas.googlecode.com/svn/wiki/proyecto/Planificacion.pdf Planificación]
+
   ***Mejora de la Planificación*:[http://ecitas.googlecode.com/svn/wiki/proyecto/ModificacionPlanificacion.pdf ModificacionPlanificación]
 
 
@@ -60,4 +61,4 @@
 =PROYECTO=
  ***Análisis y Diseño de todos los casos de prueba del proyecto*: [https://ecitas.googlecode.com/svn/trunk/ecitas IteracionesAnalisisDiseño]
 
- **Proyecto finalizado*:[http://ecitas.googlecode.com/svn/wiki/proyecto/ProyectoCompleto.zip ProyectoCompleto]
+ **Proyecto finalizado*: [http://ecitas.googlecode.com/svn/wiki/proyecto/ProyectoCompleto.zip ProyectoCompleto]
