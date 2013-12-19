@@ -14,8 +14,7 @@
 
   ***Acta 8*: [http://ecitas.googlecode.com/svn/wiki/proyecto/Acta008.pdf Acta008]
 
- ***Acta 9*:
-[http://ecitas.googlecode.com/svn/wiki/proyecto/Acta009.pdf Acta009]
+ ***Acta 9*: [http://ecitas.googlecode.com/svn/wiki/proyecto/Acta009.pdf Acta009]
 
  ***Acta 10*: [http://ecitas.googlecode.com/svn/wiki/proyecto/Acta010.pdf Acta010]
 
